@@ -1,0 +1,30 @@
+.x1,
+.x2,
+.x3,
+.x4,
+.x5 {
+    padding: 15px 0;
+    font-size: 60px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.x1 {
+    background-color: #c00000;
+}
+
+.x2 {
+    background-color: #e36c0a;
+}
+
+.x3 {
+    background-color: #ffc000;
+}
+
+.x4 {
+    background-color: #00b050;
+}
+
+.x5 {
+    background-color: #00b0f0;
+}
